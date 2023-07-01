@@ -122,3 +122,19 @@ body {
 .escolinhadois-titulo{
     padding: 24px 0;
 }
+
+.rodape{
+    background-color: #868DCD;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    text-align: center;
+}
+
+.cabecalho-lista-item a{
+    text-decoration: none; 
+    color: white;
+}
