@@ -1,6 +1,6 @@
 header {
-    background-color: #424E61;
-    color: #424E61;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 *{
@@ -13,8 +13,8 @@ header {
 }
 
 .cabecalho {
-    background-color: #424E61;
-    color: #424E61;
+    background-color: #000000;
+    color: #ffffff;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -32,8 +32,8 @@ header {
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#868DCD);
-    color: white;
+    background-image: linear-gradient(#000000,#000000);
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -53,12 +53,16 @@ body {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
 
+.escolinha-titulo{
+    padding: 24px 0;
+}
+
 .escolinha-imagem{
     width: 35%;
 }
 
 .escolinha{
-    background-color: #424E61;
+    background-color: #000000;
     color: #ffffff;
     display: flex;
     justify-content: center;
@@ -80,8 +84,8 @@ body {
 }
 
 .escolona{
-    background-color: #868DCD;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -89,7 +93,7 @@ body {
 }
 
 .escolona-texto-oito{
-    color: #A1A8EE;
+    color: #888888;
 }
 
 .escolona-div-conteudo{
@@ -106,7 +110,7 @@ body {
 }
 
 .escolinhadois{
-    background-color: #424E61;
+    background-color: #292929;
     color: #ffffff;
     display: flex;
     justify-content: center;
@@ -124,7 +128,7 @@ body {
 }
 
 .rodape{
-    background-color: #868DCD;
+    background-color: #000000;
     text-align: center;
 }
 
